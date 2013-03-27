@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+body
+{
+background-image:url(wood.jpg);
+background-color:white;
+margin:0px 160px; padding:0px;
+text-align:center;
+}
+</style>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>Web Typography</title>
+  <link href=&#8217 http://fonts.googleapis.com/css?family=Merriweather&#8217  rel=&#8217 stylesheet&#8217  type=&#8217 text/css&#8217 >
+    <link rel="stylesheet" href="styles.css">
+<style type="text/css">
+p { line-height: 2em; } 
+blockquote p { line-height: 2em; } 
+</style> 
+</head>
+<body background="">
+<center>
+<img src="newpills.jpg"
+width="875px"
+height="573.5px">
+<header> 
+<h1></h1>
+</header>
+</center>
+<body>
+<font face="geneva, arial, sans serif">
+<h4></h4)>
+<nav>
+<ul>
+        <a href="#Def">Defining Addiction</a>  |    
+        <a href="#Medical">Federal and Medical Views</a>     |
+        <a href="#Media">Addiction in the Media</a>
+      
+    </ul>
+</nav>
+<hr />
+<br>
+<h3><u>Why does having a specific American definition of addiction matter?</u></h3>
+<p>The definition of addiction by American medical, federal and media communities has been intensely deliberated in the United States for decades due to how it influences American treatment of addicts. </p> 
+<br>
+<hr />
+<div id="Def">
+<h2>Addiction: a Disease or a Choice?</h2>
+<p>	 The definition of addiction by the American medical,<img src="alcohol.jpg" align="right"> federal and media communities has been 
+intensely deliberated in the United States for decades due to how it influences the American public's treatment of addicts. 
+American experts from a range of professions have supported the position that addiction should be defined as a disease due to the positive effect they believe this decision has on the addict. This can be seen in the book <u>Under the Influence</u>, where psychologist and writer duo Milam and Ketcham assert that "alcoholics should not be held accountable for their actions" and that "They are sick, unable to think rationally, and incapable of giving up alcohol by themselves." By stating that the addiction came about through no fault of the user, Milam and Ketcham are supporting the position that addiction is a disease and should be treated as such. The LA Times weighed in on the issue in 2010 with regards to marijuana addiction, which they defined as "The inability to stop using despite recognition of harmful consequences." This definition further backs the view that addiction is not a choice, as human beings will not choose to continue a harmful behavior unless they have a mental flaw. These experts and others view addiction as a disease that harms the afflicted. These two established and credible sources are only a handful of the many sources from the United States that seek to define addiction as a treatable condition due to the significant effect its definition has on how it is viewed by the American public. The medical, federal, and media definitions of addiction have profound effects on how addicts are treated by the American public.
+</div>
+<hr />
+<div id="Medical">
+<h2>Addiction in the American Federal and Medical Communities</h2>
+</div>
+<img src="caduceus.jpg" align="center" width="390px" height="290px">
+<p>TThe United States' federal definitions of addiction have varied over time, experiencing mixed degrees of success. For example, in the 19th century, the U.S. government issued a mandate outlawing drug dispensation to addicts. Their view was that drug use was a decision made by the addicts, and that medical professionals should not have a part in assisting their compulsion. However, Dr. Ernest Bishop, an American physician, defied this mandate by issuing prescriptions to addicted patients in accordance with his theory that "addiction was a disease and should be treated through indefinite maintenance". This federal viewpoint differed from Bishop's medical viewpoint and as a result, Bishop was indicted for violating the law. The charges remained throughout his life, only to be dropped just before his death. <img src="pills.jpg" align="right" width="390px" height="290px"> In contrast, the modern British government took the opposite approach by allowing doctors to set up an experimental trial that would gauge the effects of giving heroin to heroin addicts in diminishing quantities over time. The trial had a high degree of success, as three-quarters of those given heroin managed to largely stop taking street heroin. Following the conclusion of the trial, Britain decided to institute the program into law with state-funded clinics. Both Bishop and the British doctors believed that addiction must be treated as a disease, but the British doctors managed to have a much more positive impact on their patients than Bishop did as a direct result of the fact that the British government interpreted addiction as a disease, whereas the 19th century United States government depicted addiction as a choice. 
+From a medical standpoint, the treatment of addicts in the United States has differed based on the time period. In the 19th century, Bishop's medical view of addiction was detailed in his book Drug Addiction as a Chronic Disease. When speaking of opiate addiction, he outlines his desire to remove the phrase drug habit from the realm of medical discussion entirely. He stated "I believe if it had not been for the use of the word 'habit' that the medical profession would long ago have recognized and investigated this condition as a disease." He alleged that this would aid afflicted individuals due to the fact that all men think they can control habits, whereas they fear diseases, because its development is beyond their power. 
+<hr />
+</ul>
+<center>
+<div id="Media">
+<h2>The Media&#8217s Effect on Perception of Substance Abuse</h2>
+<p>The American media's sensational and unrealistic approach towards the taboo subject of addiction perpetuates false information and ideas to their consumers, misleadingly warping the public's perceptions about the true nature of substance abuse. America's taboo approach towards substance abuse means that individuals in society are much less likely to have real life experience with it, giving the media, a nationwide source of information, substantial influence on the issue. Gene M. Heyman, a psychology professor at Boston College, supports this opinion that the media holds considerable sway over the American public's beliefs. He states this view early on in his book <u>Addiction: a Disorder of Choice</u> <img src="sheen.jpg" align="right"> when he writes "My impression is that the journalists' presentations resonate with the public. People who have nothing at stake other than being well-informed agree [with the media's view]." News reporting in particular comes across as undeniable because its newscasters, reporters, and guests are all professionals and authority figures.As a result, American viewers take the information coming from the media as truth.
+The US's fascination with celebrities negatively influences the perceptions of the American public towards the issue of addiction. For example, Charlie Sheen was given interviews and reported upon all throughout his drug spree. Sheen's position as a model of success to the public, combined with his substantial airtime, falsely normalized substance abuse as an activity that could be done with few repercussions. Similarly, the popular teen show Skins features extended alcohol use, but the characters are recurring, so they all end up with little to no long terms ramifications from their actions. The show is also guilty of normalizing substance abuse as a social act as opposed to a dangerous one. </p>
+</font>
+</div>
+<hr />
+</p>
+<nav>
+<ul>
+           <a href="#Def">Defining Addiction</a>	|    
+        <a href="#Medical">Federal and Medical Views</a>     |
+        <a href="#Media">Addiction in the Media</a>
+    </ul>
+</nav>
+<footer>
+    <p>Written and Created by Douglas Tusing CLAS &#8217 16</p>
+    <address> dwt3hs@virginia.edu </address>
+</footer>
+</body>
+</center>
+</html>
